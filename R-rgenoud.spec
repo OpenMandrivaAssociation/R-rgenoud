@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          5.7.8.1
-Release:          2
+Version:          5.7.12
+Release:          1
 Summary:          R version of GENetic Optimization Using Derivatives
 Group:            Sciences/Mathematics
 License:          GPL-3
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/rgenoud_5.7-8.1.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/rgenoud_5.7-12.tar.gz
 Requires:         R-utils 
 Requires:         R-snow 
 BuildRequires:    R-devel

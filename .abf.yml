@@ -1,4 +1,5 @@
 removed_sources:
   rgenoud_5.7-3.tar.gz: 42a5d9c1bcdb417082aeed6af262f14b08465f4d
-sources:
   rgenoud_5.7-8.1.tar.gz: 9571ae71217c62bce6d3c0c3f528b79e1c01210c
+sources:
+  rgenoud_5.7-12.tar.gz: 77d79b6576f872211dbf27e370db343560e4dfa7
