@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          5.7.12
-Release:          1
+Release:          2
 Summary:          R version of GENetic Optimization Using Derivatives
 Group:            Sciences/Mathematics
 License:          GPL-3
